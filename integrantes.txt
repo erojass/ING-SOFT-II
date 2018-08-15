@@ -1,2 +1,6 @@
 integrante 0
 integrante 2
+integrante -1
+integrante -2
+integrante -3
+
